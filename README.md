@@ -11,7 +11,7 @@
 
 ### Demo Screeshots
 
-![Signup_Page Desktop Demo](./Design/BeFunky-collage.png "Desktop Demo")
+![Signup_Page Desktop Demo](./Design/img.jpg "Desktop Demo")
 
 ### Prerequisites
 
@@ -21,18 +21,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Post-Office_Application** locally, run this command on your git bash:
+To run **User_Authentication** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/vishalP-08/SIGNUP_PAGE.git
+sudo git clone https://github.com/vishalP-08/User_Authentication.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/vishalP-08/SIGNUP_PAGE.git
+git clone https://github.com/vishalP-08/User_Authentication.git
 ```
 
 ### Contact
